@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">T.M Fight</string>
+    <string name="gameScore">Tu puntuación: %1$d</string>
+    <string name="timeLeft">Tiempo restante: %1$d</string>
+    <string name="tapMe">¡Pulsame!</string>
+    <string name="faster">!RÁPIDO¡</string>
+    <string name="scoreResult">Tu puntación fue de: %1$d.</string>
+    <string name="about">About</string>
+    <string name="aboutTitle">T.M Fight</string>
+    <string name="aboutMessage">Aplicación creada por Daniel Morán</string>
+</resources>
